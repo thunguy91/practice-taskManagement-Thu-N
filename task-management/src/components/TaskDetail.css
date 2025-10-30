@@ -1,0 +1,18 @@
+.taskdetail-container {
+  padding: 20px;
+}
+
+.back-button {
+  display: inline-block;
+  margin: 5px;
+  padding: 8px 12px;
+  background-color: #1b65b5;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.back-button:hover {
+  background-color: #05264a;
+  color: rgb(123, 119, 246);
+}
